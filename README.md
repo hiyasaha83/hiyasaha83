@@ -10,12 +10,11 @@
 
 ## 👩‍💻 About Me
 
-Hi! I am **Hiya Saha**, a passionate **Software Developer & Data Science enthusiast** from Bangladesh 🇧🇩  
+Hi! I’m Hiya Saha, an undergraduate student at East West University, Bangladesh 🇧🇩
 
-I enjoy building real-world systems and analyzing data to uncover insights.  
-Currently working with **Web Development, Oracle APEX, and Machine Learning basics**.  
+I’m currently studying Computer Science and exploring my interests in Software Development and Data Science. I enjoy learning Web Development, Oracle APEX, and the basics of Machine Learning while continuously improving my skills through hands-on practice.
 
-I believe in learning by building and solving real problems 🚀  
+As a student, I believe in learning by building—working on small projects, solving problems, and trying to understand how real-world systems work beyond the classroom. Each project helps me grow a little more 🚀
 
 ---
 
@@ -24,7 +23,7 @@ I believe in learning by building and solving real problems 🚀
 | 💻 Software Projects | 📊 Data Science Projects | 🤖 Smart Systems |
 | :--- | :--- | :--- |
 | **E-commerce Management System**<br>Full system with products, orders, payments & admin panel | **Student Performance Analysis**<br>Data insights using visualization | **Chatbot System**<br>User-based chatbot with database |
-| **Airline Management System**<br>Flight & booking system | **Prediction Model**<br>Basic ML model (classification/regression) | **Recommendation System**<br>Basic smart suggestion system |
+| **Airline Management System**<br>Flight & booking system | **Basic Prediction Model**<br>Intro ML classification/regression | **Recommendation System**<br>Simple intelligent suggestions |
 
 ---
 
@@ -50,7 +49,7 @@ I believe in learning by building and solving real problems 🚀
 
 ---
 
-## 📈 Developer Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiyasaha83&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -67,10 +66,11 @@ I believe in learning by building and solving real problems 🚀
 
 ## 🎯 Goals
 
-- Become a Full Stack Developer + Data Scientist  
-- Build intelligent and data-driven systems  
-- Keep learning & improving every day  
+- Become a strong Full Stack Developer & Data Science practitioner  
+- Build real-world, intelligent, data-driven systems  
+- Improve problem-solving and system design skills  
+- Keep learning, building, and growing consistently  
 
 ---
 
-✨ *"Think with data, build with code."*
+✨ *"Code is better when it solves something real."*
