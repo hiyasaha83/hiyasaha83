@@ -45,7 +45,7 @@ It demonstrates how AI-powered voice interfaces can simplify academic and admini
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/Oracle_APEX-red?style=for-the-badge&logo=oracle"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/C_language-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
