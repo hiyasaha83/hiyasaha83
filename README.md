@@ -43,8 +43,16 @@ It demonstrates how AI-powered voice interfaces can simplify academic and admini
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/Oracle_APEX-red?style=for-the-badge&logo=oracle"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Firebase_Realtime_DB-ffca28?style=for-the-badge&logo=firebase"/>
 </p>
 
 ### 📊 Data Science
@@ -55,15 +63,6 @@ It demonstrates how AI-powered voice interfaces can simplify academic and admini
   <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-green?style=for-the-badge"/>
 </p>
-
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiyasaha83&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 
 ## 🎯 Goals
 
