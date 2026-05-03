@@ -71,6 +71,4 @@ As a student, I believe in learning by building—working on small projects, sol
 - Improve problem-solving and system design skills  
 - Keep learning, building, and growing consistently  
 
----
 
-✨ *"Code is better when it solves something real."*
