@@ -14,7 +14,20 @@ Hi! I’m Hiya Saha, an undergraduate student at East West University, Banglades
 
 I’m currently studying Computer Science and exploring my interests in Software Development and Data Science. I enjoy learning Web Development, Oracle APEX, and the basics of Machine Learning while continuously improving my skills through hands-on practice.
 
-As a student, I believe in learning by building—working on small projects, solving problems, and trying to understand how real-world systems work beyond the classroom. Each project helps me grow a little more 🚀
+As a student, I believe in learning by building—working on small projects, solving problems, and understanding how real-world systems work beyond the classroom. Each project helps me grow a little more 🚀
+
+---
+
+## 🏆 Highlight: Capstone Project
+
+One of my most significant academic achievements is my capstone project at East West University:
+
+**"askEwu – Voice Assistant for University (Alexa-based System)"**  
+*Supervised by DSU Sir*
+
+This project is an intelligent voice assistant designed for the East West University CSE Department ecosystem. It integrates **Amazon Alexa**, **Natural Language Processing (NLP)**, and a **zero-backend architecture** to provide fast and voice-driven access to university-related information.
+
+It demonstrates how AI-powered voice interfaces can simplify academic and administrative interactions within a university environment.
 
 ---
 
@@ -70,5 +83,3 @@ As a student, I believe in learning by building—working on small projects, sol
 - Build real-world, intelligent, data-driven systems  
 - Improve problem-solving and system design skills  
 - Keep learning, building, and growing consistently  
-
-
