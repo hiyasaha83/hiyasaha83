@@ -1,12 +1,9 @@
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiyasaha83&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyasaha83&layout=compact&theme=midnight-purple&hide_border=true"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=200&section=header&text=Hiya%20Saha&fontSize=45&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<br>
+  <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiyasaha83&theme=midnight-purple&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Science+Student;Machine+Learning+Explorer;Building+Smart+Systems" />
 </div>
 
 
