@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=200&section=header&text=Hiya%20Saha&fontSize=45&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18"/>
-
-  <br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Science+Student;Machine+Learning+Explorer;Building+Smart+Systems" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiyasaha83&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyasaha83&layout=compact&theme=midnight-purple&hide_border=true"/>
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiyasaha83&theme=midnight-purple&hide_border=true"/>
+</div>
+
 
 ## 👩‍💻 About Me
 
@@ -16,7 +18,6 @@ I’m currently studying Computer Science and exploring my interests in Software
 
 As a student, I believe in learning by building—working on small projects, solving problems, and understanding how real-world systems work beyond the classroom. Each project helps me grow a little more 🚀
 
----
 
 ## 🏆 Highlight: Capstone Project
 
@@ -29,7 +30,6 @@ This project is an intelligent voice assistant designed for the East West Univer
 
 It demonstrates how AI-powered voice interfaces can simplify academic and administrative interactions within a university environment.
 
----
 
 ## 🚀 Featured Projects
 
@@ -38,7 +38,6 @@ It demonstrates how AI-powered voice interfaces can simplify academic and admini
 | **E-commerce Management System**<br>Full system with products, orders, payments & admin panel | **Student Performance Analysis**<br>Data insights using visualization | **Chatbot System**<br>User-based chatbot with database |
 | **Airline Management System**<br>Flight & booking system | **Basic Prediction Model**<br>Intro ML classification/regression | **Recommendation System**<br>Simple intelligent suggestions |
 
----
 
 ## 💻 Tech Stack
 
@@ -60,14 +59,6 @@ It demonstrates how AI-powered voice interfaces can simplify academic and admini
   <img src="https://img.shields.io/badge/Scikit_Learn-green?style=for-the-badge"/>
 </p>
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiyasaha83&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyasaha83&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
 <br>
 
